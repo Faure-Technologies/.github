@@ -1,12 +1,20 @@
-## Hi there 👋
+# Faure Data Forge
 
-<!--
+Plateforme interne de collecte, transformation et export de données produits.
 
-**Here are some ideas to get you started:**
+## Projets principaux
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **faure-data-forge** — moteur de pipeline produit
+- **faure-api** — API REST Axum
+- **product-assistant** — interface Leptos
+
+## Fonctionnalités
+
+- ingestion CSV / XML
+- scraping fournisseurs
+- parsing PDF
+- génération de flux clients
+
+## Documentation
+
+📚 [https://docs.faure-data-forge.dev](http://wikifaure.faure-technologies.lan/books/faure-data-forge)
