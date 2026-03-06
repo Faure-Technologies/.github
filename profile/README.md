@@ -1,20 +1,23 @@
-# Faure Data Forge
+# Faure Technologies
 
-Plateforme interne de collecte, transformation et export de données produits.
+Faure Technologies est une entreprise spécialisée dans la distribution et l’intégration de solutions industrielles, notamment dans les domaines de la transmission de puissance, de la pneumatique, de l’hydraulique et de l’automatisation industrielle.
 
-## Projets principaux
+Nous accompagnons les industriels dans la conception, l’approvisionnement et la mise en œuvre de composants techniques utilisés dans de nombreux secteurs : industrie, énergie, mobilité et infrastructures.
 
-- **faure-data-forge** — moteur de pipeline produit
-- **faure-api** — API REST Axum
-- **product-assistant** — interface Leptos
+## Nos domaines d’expertise
 
-## Fonctionnalités
+- Transmission mécanique
+- Pneumatique industrielle
+- Hydraulique
+- Automatisation et contrôle
+- Distribution de composants techniques pour l’industrie
 
-- ingestion CSV / XML
-- scraping fournisseurs
-- parsing PDF
-- génération de flux clients
+## Innovation et solutions numériques
 
-## Documentation
+Faure Technologies développe également des outils numériques destinés à améliorer la gestion des données produits, l’intégration des catalogues fournisseurs et l’automatisation des flux d’informations.
 
-📚 [https://docs.faure-data-forge.dev](http://wikifaure.faure-technologies.lan/books/faure-data-forge)
+Certains projets et outils techniques sont publiés ici afin de partager des composants, des expérimentations ou des briques logicielles liées à nos activités.
+
+## En savoir plus
+
+🌐 https://www.faure-technologies.com
